@@ -1,2 +1,3 @@
 # C5535-eZdsp
 Repo to maintain source code for Texas Instruments TMS320C5535 eZdsp USB stick. For more information check my blog - https://raulbehl.wordpress.com/
+To get started follow the steps in - https://raulbehl.wordpress.com/2015/05/01/using-texas-instruments-tms320c5535-ezdsp-usb-stick-blinking-first-ccsv4-project/
