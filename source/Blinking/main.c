@@ -5,5 +5,5 @@ extern void blink_led ();
 
 void main() {   
     EZDSP5535_init( );
-	blink_led( );
+    blink_led( );
 }
