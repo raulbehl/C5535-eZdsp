@@ -80,8 +80,8 @@ void audio_playback () {
 		for (msec = 0; msec<1000; msec++) {
 			for (sample = 0; sample<48; sample++) {
 
-				/* Read 16-bit left channel Data */
-				EZDSP5535_I2S_readLeft(lData);
+			/* Read 16-bit left channel Data */
+			EZDSP5535_I2S_readLeft(lData);
     			/* Read 16-bit right channel Data */
     			EZDSP5535_I2S_readRight(rData);
     			/* Write 16-bit left channel Data */
